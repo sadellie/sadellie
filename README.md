@@ -1,7 +1,8 @@
 <div align="center">
   <a href="https://sadellie.github.io/">
-    <img alt="Translate" src="https://github.com/sadellie/sadellie/assets/10384356/55a55cbf-b5c8-43c7-8924-eca7533b80d8" width="98%"/>
+    <img alt="Translate" src="profile.png" width="98%"/>
   </a>
-  click the image above 🤦‍♀️
+  <sup>click the image above 🤦‍♀️</sup>
 </div>
 
+Photo by <a href="https://unsplash.com/@pawel_czerwinski?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Pawel Czerwinski</a> on <a href="https://unsplash.com/photos/a-close-up-of-a-pink-and-blue-liquid-hNrd99q5peI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
